@@ -58,43 +58,43 @@ GAME
 	FLIGHTSTATE
 	{
 		version = 0.18.2
-		UT = 2829.79778259196
+		UT = 2237.3177825925
 		activeVessel = 0
 		VESSEL
 		{
 			pid = 00ec590b104746e8a5d51dc1326125c4
-			name = O-KER Saki I
-			type = Station
+			name = IP Saki (Engines)
+			type = Probe
 			sit = ORBITING
 			landed = False
 			landedAt = 
 			splashed = False
-			met = 2763.99778259199
+			met = 2201.8577825925
 			lct = 35.3599999999999
 			root = 0
-			lat = 0.549303561436399
-			lon = -38.3465099910096
-			alt = 144458.271979307
+			lat = -0.575110378406204
+			lon = -123.340481891314
+			alt = 144699.596864086
 			hgt = -1
-			nrm = 0.5445338,0.7580161,-0.3590188
-			rot = -0.7964409,0.07134489,-0.3677198,-0.4747357
-			CoM = 0.002416432,2.223066,0.00134173
+			nrm = 0.5209813,0.7692128,-0.3699866
+			rot = -0.8048639,-0.4963275,-0.007284203,0.3252694
+			CoM = 0.003435254,2.222818,0.0009440184
 			stg = 1
 			prst = False
 			eva = False
 			ref = 3142322029
-			cPch = 
-			cHdg = 
+			cPch = 0.368
+			cHdg = -0.542
 			cMod = 1
 			ORBIT
 			{
-				SMA = 745828.261743203
-				ECC = 0.00248311732695624
-				INC = 0.766619786274397
-				LPE = 3.29545229449325
-				LAN = 52.5527837467982
-				MNA = 0.737785616861387
-				EPH = 2799.35778259199
+				SMA = 745824.016000412
+				ECC = 0.00243788698386422
+				INC = 0.766683517082713
+				LPE = 3.37042557996871
+				LAN = 52.5533150453491
+				MNA = 5.37983068519477
+				EPH = 2237.3177825925
 				REF = 1
 				OBJ = 0
 			}
@@ -115,7 +115,7 @@ GAME
 				attN = bottom, 1
 				attN = top, 92
 				mass = 0.08
-				temp = -105.5698
+				temp = -180.3751
 				expt = 0
 				state = 0
 				connected = True
@@ -164,7 +164,7 @@ GAME
 				attN = top, 2
 				attN = bottom, 0
 				mass = 0.05
-				temp = -105.4169
+				temp = -180.1042
 				expt = 0.5
 				state = 0
 				connected = True
@@ -303,7 +303,7 @@ GAME
 				attN = top, 1
 				attN = bottom, 3
 				mass = 0.05
-				temp = -105.5948
+				temp = -180.3131
 				expt = 0.5
 				state = 0
 				connected = True
@@ -442,7 +442,7 @@ GAME
 				attN = bottom, 4
 				attN = top, 2
 				mass = 0.07
-				temp = -106.1524
+				temp = -181.2281
 				expt = 0.5
 				state = 0
 				connected = True
@@ -471,7 +471,7 @@ GAME
 				attN = top, 3
 				attN = bottom, 5
 				mass = 0.1
-				temp = -105.6998
+				temp = -180.4706
 				expt = 0.5
 				state = 0
 				connected = True
@@ -512,7 +512,7 @@ GAME
 				attN = top, 4
 				attN = bottom, 6
 				mass = 0.4
-				temp = -105.6421
+				temp = -180.657
 				expt = 0.5
 				state = 0
 				connected = True
@@ -549,7 +549,7 @@ GAME
 				attN = top, 5
 				attN = bottom, 7
 				mass = 0.4
-				temp = -105.3477
+				temp = -180.0795
 				expt = 0.5
 				state = 0
 				connected = True
@@ -586,7 +586,7 @@ GAME
 				attN = top, 6
 				attN = bottom, 8
 				mass = 0.4
-				temp = -105.2812
+				temp = -179.9682
 				expt = 0.5
 				state = 0
 				connected = True
@@ -623,7 +623,7 @@ GAME
 				attN = top, 7
 				attN = bottom, 9
 				mass = 0.4
-				temp = -105.4464
+				temp = -180.1877
 				expt = 0.5
 				state = 0
 				connected = True
@@ -660,7 +660,7 @@ GAME
 				attN = top, 8
 				attN = bottom, 10
 				mass = 0.4
-				temp = -105.8876
+				temp = -181.0052
 				expt = 0.5
 				state = 0
 				connected = True
@@ -697,7 +697,7 @@ GAME
 				attN = top, 9
 				attN = bottom, 39
 				mass = 0.25
-				temp = -106.6315
+				temp = -182.3728
 				expt = 0.5
 				state = 0
 				connected = True
@@ -745,7 +745,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.175
-				temp = -105.8048
+				temp = -180.6491
 				expt = 0.5
 				state = 0
 				connected = True
@@ -777,7 +777,7 @@ GAME
 				attN = None, -1
 				attN = bottom, 13
 				mass = 0.02
-				temp = -105.4031
+				temp = -180.1036
 				expt = 0.5
 				state = 0
 				connected = True
@@ -919,7 +919,7 @@ GAME
 				attN = bottom, 14
 				attN = top, 12
 				mass = 0.25
-				temp = -105.2752
+				temp = -180.0486
 				expt = 0.5
 				state = 0
 				connected = True
@@ -951,7 +951,7 @@ GAME
 				attN = top, 13
 				attN = None, -1
 				mass = 2.25
-				temp = -104.8407
+				temp = -179.4933
 				expt = 0.5
 				state = 0
 				connected = True
@@ -1134,7 +1134,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.175
-				temp = -105.0416
+				temp = -179.815
 				expt = 0.5
 				state = 0
 				connected = True
@@ -1166,7 +1166,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.02
-				temp = -104.7151
+				temp = -179.3734
 				expt = 0.5
 				state = 0
 				connected = True
@@ -1306,7 +1306,7 @@ GAME
 				sym = 38
 				srfN = srfAttach, 15
 				mass = 0.05
-				temp = -104.5515
+				temp = -179.1799
 				expt = 0.5
 				state = 0
 				connected = True
@@ -1376,7 +1376,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.175
-				temp = -105.6924
+				temp = -180.5104
 				expt = 0.5
 				state = 0
 				connected = True
@@ -1408,7 +1408,7 @@ GAME
 				attN = None, -1
 				attN = bottom, 20
 				mass = 0.02
-				temp = -105.3558
+				temp = -180.0564
 				expt = 0.5
 				state = 0
 				connected = True
@@ -1550,7 +1550,7 @@ GAME
 				attN = bottom, 21
 				attN = top, 19
 				mass = 0.25
-				temp = -105.2597
+				temp = -180.0348
 				expt = 0.5
 				state = 0
 				connected = True
@@ -1582,7 +1582,7 @@ GAME
 				attN = top, 20
 				attN = None, -1
 				mass = 2.25
-				temp = -104.8339
+				temp = -179.487
 				expt = 0.5
 				state = 0
 				connected = True
@@ -1765,7 +1765,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.175
-				temp = -105.0368
+				temp = -179.8105
 				expt = 0.5
 				state = 0
 				connected = True
@@ -1797,7 +1797,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.02
-				temp = -104.713
+				temp = -179.3713
 				expt = 0.5
 				state = 0
 				connected = True
@@ -1937,7 +1937,7 @@ GAME
 				sym = 38
 				srfN = srfAttach, 22
 				mass = 0.05
-				temp = -104.5494
+				temp = -179.1777
 				expt = 0.5
 				state = 0
 				connected = True
@@ -2007,7 +2007,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.175
-				temp = -105.5804
+				temp = -180.3721
 				expt = 0.5
 				state = 0
 				connected = True
@@ -2039,7 +2039,7 @@ GAME
 				attN = None, -1
 				attN = bottom, 27
 				mass = 0.02
-				temp = -105.3086
+				temp = -180.0095
 				expt = 0.5
 				state = 0
 				connected = True
@@ -2181,7 +2181,7 @@ GAME
 				attN = bottom, 28
 				attN = top, 26
 				mass = 0.25
-				temp = -105.2445
+				temp = -180.0207
 				expt = 0.5
 				state = 0
 				connected = True
@@ -2213,7 +2213,7 @@ GAME
 				attN = top, 27
 				attN = None, -1
 				mass = 2.25
-				temp = -104.8272
+				temp = -179.481
 				expt = 0.5
 				state = 0
 				connected = True
@@ -2396,7 +2396,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.175
-				temp = -105.0319
+				temp = -179.8064
 				expt = 0.5
 				state = 0
 				connected = True
@@ -2428,7 +2428,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.02
-				temp = -104.7108
+				temp = -179.3691
 				expt = 0.5
 				state = 0
 				connected = True
@@ -2568,7 +2568,7 @@ GAME
 				sym = 38
 				srfN = srfAttach, 29
 				mass = 0.05
-				temp = -104.5471
+				temp = -179.1753
 				expt = 0.5
 				state = 0
 				connected = True
@@ -2638,7 +2638,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.175
-				temp = -105.4685
+				temp = -180.2344
 				expt = 0.5
 				state = 0
 				connected = True
@@ -2670,7 +2670,7 @@ GAME
 				attN = None, -1
 				attN = bottom, 34
 				mass = 0.02
-				temp = -105.2615
+				temp = -179.9624
 				expt = 0.5
 				state = 0
 				connected = True
@@ -2812,7 +2812,7 @@ GAME
 				attN = bottom, 35
 				attN = top, 33
 				mass = 0.25
-				temp = -105.2292
+				temp = -180.007
 				expt = 0.5
 				state = 0
 				connected = True
@@ -2844,7 +2844,7 @@ GAME
 				attN = top, 34
 				attN = None, -1
 				mass = 2.25
-				temp = -104.8204
+				temp = -179.4749
 				expt = 0.5
 				state = 0
 				connected = True
@@ -3027,7 +3027,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.175
-				temp = -105.0273
+				temp = -179.802
 				expt = 0.5
 				state = 0
 				connected = True
@@ -3059,7 +3059,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.02
-				temp = -104.7085
+				temp = -179.3669
 				expt = 0.5
 				state = 0
 				connected = True
@@ -3199,7 +3199,7 @@ GAME
 				sym = 31
 				srfN = srfAttach, 36
 				mass = 0.05
-				temp = -104.5449
+				temp = -179.1733
 				expt = 0.5
 				state = 0
 				connected = True
@@ -3266,7 +3266,7 @@ GAME
 				attN = top, 10
 				attN = None, -1
 				mass = 2.25
-				temp = -105.0865
+				temp = -179.7625
 				expt = 0.5
 				state = 0
 				connected = True
@@ -3451,7 +3451,7 @@ GAME
 				sym = 47
 				srfN = srfAttach, 10
 				mass = 0.005
-				temp = -104.9767
+				temp = -179.6274
 				expt = 0.5
 				state = 0
 				connected = True
@@ -3493,7 +3493,7 @@ GAME
 				sym = 47
 				srfN = srfAttach, 10
 				mass = 0.005
-				temp = -104.819
+				temp = -179.4416
 				expt = 0.5
 				state = 0
 				connected = True
@@ -3535,7 +3535,7 @@ GAME
 				sym = 47
 				srfN = srfAttach, 10
 				mass = 0.005
-				temp = -104.6615
+				temp = -179.2561
 				expt = 0.5
 				state = 0
 				connected = True
@@ -3577,7 +3577,7 @@ GAME
 				sym = 47
 				srfN = srfAttach, 10
 				mass = 0.005
-				temp = -104.5044
+				temp = -179.0712
 				expt = 0.5
 				state = 0
 				connected = True
@@ -3619,7 +3619,7 @@ GAME
 				sym = 47
 				srfN = srfAttach, 10
 				mass = 0.005
-				temp = -104.3477
+				temp = -178.8866
 				expt = 0.5
 				state = 0
 				connected = True
@@ -3661,7 +3661,7 @@ GAME
 				sym = 47
 				srfN = srfAttach, 10
 				mass = 0.005
-				temp = -104.1915
+				temp = -178.7024
 				expt = 0.5
 				state = 0
 				connected = True
@@ -3703,7 +3703,7 @@ GAME
 				sym = 47
 				srfN = srfAttach, 10
 				mass = 0.005
-				temp = -104.0355
+				temp = -178.5188
 				expt = 0.5
 				state = 0
 				connected = True
@@ -3745,7 +3745,7 @@ GAME
 				sym = 46
 				srfN = srfAttach, 10
 				mass = 0.005
-				temp = -103.8799
+				temp = -178.3356
 				expt = 0.5
 				state = 0
 				connected = True
@@ -3783,7 +3783,7 @@ GAME
 				sym = 51
 				srfN = srfAttach, 9
 				mass = 0.09
-				temp = -105.0694
+				temp = -179.7236
 				expt = 0.5
 				state = 0
 				connected = True
@@ -3901,7 +3901,7 @@ GAME
 				sym = 51
 				srfN = srfAttach, 9
 				mass = 0.09
-				temp = -104.9221
+				temp = -179.5511
 				expt = 0.5
 				state = 0
 				connected = True
@@ -4019,7 +4019,7 @@ GAME
 				sym = 51
 				srfN = srfAttach, 9
 				mass = 0.09
-				temp = -104.775
+				temp = -179.3788
 				expt = 0.5
 				state = 0
 				connected = True
@@ -4137,7 +4137,7 @@ GAME
 				sym = 50
 				srfN = srfAttach, 9
 				mass = 0.09
-				temp = -104.6283
+				temp = -179.2071
 				expt = 0.5
 				state = 0
 				connected = True
@@ -4255,7 +4255,7 @@ GAME
 				sym = 55
 				srfN = srfAttach, 5
 				mass = 0.09
-				temp = -104.9176
+				temp = -179.5685
 				expt = 0.5
 				state = 0
 				connected = True
@@ -4373,7 +4373,7 @@ GAME
 				sym = 55
 				srfN = srfAttach, 5
 				mass = 0.09
-				temp = -104.7706
+				temp = -179.3965
 				expt = 0.5
 				state = 0
 				connected = True
@@ -4491,7 +4491,7 @@ GAME
 				sym = 55
 				srfN = srfAttach, 5
 				mass = 0.09
-				temp = -104.6241
+				temp = -179.2249
 				expt = 0.5
 				state = 0
 				connected = True
@@ -4609,7 +4609,7 @@ GAME
 				sym = 54
 				srfN = srfAttach, 5
 				mass = 0.09
-				temp = -104.478
+				temp = -179.0534
 				expt = 0.5
 				state = 0
 				connected = True
@@ -4729,7 +4729,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.6
-				temp = -105.6517
+				temp = -180.5989
 				expt = 0.5
 				state = 0
 				connected = True
@@ -4761,7 +4761,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.02
-				temp = -105.0658
+				temp = -179.7221
 				expt = 0.5
 				state = 0
 				connected = True
@@ -4903,7 +4903,7 @@ GAME
 				attN = None, -1
 				attN = top, 59
 				mass = 0.6
-				temp = -105.0631
+				temp = -179.7429
 				expt = 0.5
 				state = 0
 				connected = True
@@ -4935,7 +4935,7 @@ GAME
 				attN = bottom, 60
 				attN = top, 58
 				mass = 0.6
-				temp = -104.9268
+				temp = -179.6459
 				expt = 0.5
 				state = 0
 				connected = True
@@ -4967,7 +4967,7 @@ GAME
 				attN = None, -1
 				attN = bottom, 59
 				mass = 0.02
-				temp = -104.6568
+				temp = -179.3167
 				expt = 0.5
 				state = 0
 				connected = True
@@ -5109,7 +5109,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.175
-				temp = -105.1129
+				temp = -179.8871
 				expt = 0.5
 				state = 0
 				connected = True
@@ -5141,7 +5141,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.02
-				temp = -104.7521
+				temp = -179.4048
 				expt = 0.5
 				state = 0
 				connected = True
@@ -5281,7 +5281,7 @@ GAME
 				sym = 90
 				srfN = srfAttach, 61
 				mass = 0.05
-				temp = -104.5884
+				temp = -179.2111
 				expt = 0.5
 				state = 0
 				connected = True
@@ -5344,13 +5344,13 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: fuelTank3-2_93; pos: -2.841595,-2.089759,0.1621613; dir: -0.8052236,-0.5913304,0.04408167
+				cData = tgt: fuelTank3-2_93; pos: -2.839996,-2.090215,0.1611343; dir: -0.8052236,-0.5913304,0.04408167
 				sym = 73
 				sym = 82
 				sym = 91
 				srfN = srfAttach, 56
 				mass = 0.05
-				temp = -104.6378
+				temp = -179.2207
 				expt = 0
 				state = 0
 				connected = True
@@ -5382,7 +5382,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.6
-				temp = -105.5975
+				temp = -180.5289
 				expt = 0.5
 				state = 0
 				connected = True
@@ -5414,7 +5414,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.02
-				temp = -105.0349
+				temp = -179.6912
 				expt = 0.5
 				state = 0
 				connected = True
@@ -5556,7 +5556,7 @@ GAME
 				attN = None, -1
 				attN = top, 68
 				mass = 0.6
-				temp = -105.0401
+				temp = -179.7192
 				expt = 0.5
 				state = 0
 				connected = True
@@ -5588,7 +5588,7 @@ GAME
 				attN = bottom, 69
 				attN = top, 67
 				mass = 0.6
-				temp = -104.9196
+				temp = -179.6393
 				expt = 0.5
 				state = 0
 				connected = True
@@ -5620,7 +5620,7 @@ GAME
 				attN = None, -1
 				attN = bottom, 68
 				mass = 0.02
-				temp = -104.6535
+				temp = -179.3138
 				expt = 0.5
 				state = 0
 				connected = True
@@ -5762,7 +5762,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.175
-				temp = -105.0946
+				temp = -179.8678
 				expt = 0.5
 				state = 0
 				connected = True
@@ -5794,7 +5794,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.02
-				temp = -104.7427
+				temp = -179.3961
 				expt = 0.5
 				state = 0
 				connected = True
@@ -5934,7 +5934,7 @@ GAME
 				sym = 90
 				srfN = srfAttach, 70
 				mass = 0.05
-				temp = -104.579
+				temp = -179.2023
 				expt = 0.5
 				state = 0
 				connected = True
@@ -5997,13 +5997,13 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: fuelTank3-2_93; pos: -2.841721,-2.092657,0.1505176; dir: -0.8052236,-0.5913304,0.04408167
+				cData = tgt: fuelTank3-2_93; pos: -2.839821,-2.087512,0.1501799; dir: -0.8052236,-0.5913304,0.04408167
 				sym = 64
 				sym = 82
 				sym = 91
 				srfN = srfAttach, 65
 				mass = 0.05
-				temp = -104.6075
+				temp = -179.1903
 				expt = 0
 				state = 0
 				connected = True
@@ -6035,7 +6035,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.6
-				temp = -105.5433
+				temp = -180.4592
 				expt = 0.5
 				state = 0
 				connected = True
@@ -6067,7 +6067,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.02
-				temp = -105.004
+				temp = -179.6603
 				expt = 0.5
 				state = 0
 				connected = True
@@ -6209,7 +6209,7 @@ GAME
 				attN = None, -1
 				attN = top, 77
 				mass = 0.6
-				temp = -105.017
+				temp = -179.6956
 				expt = 0.5
 				state = 0
 				connected = True
@@ -6241,7 +6241,7 @@ GAME
 				attN = bottom, 78
 				attN = top, 76
 				mass = 0.6
-				temp = -104.9124
+				temp = -179.6327
 				expt = 0.5
 				state = 0
 				connected = True
@@ -6273,7 +6273,7 @@ GAME
 				attN = None, -1
 				attN = bottom, 77
 				mass = 0.02
-				temp = -104.6503
+				temp = -179.3105
 				expt = 0.5
 				state = 0
 				connected = True
@@ -6415,7 +6415,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.175
-				temp = -105.0762
+				temp = -179.8489
 				expt = 0.5
 				state = 0
 				connected = True
@@ -6447,7 +6447,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.02
-				temp = -104.7332
+				temp = -179.3873
 				expt = 0.5
 				state = 0
 				connected = True
@@ -6587,7 +6587,7 @@ GAME
 				sym = 90
 				srfN = srfAttach, 79
 				mass = 0.05
-				temp = -104.5693
+				temp = -179.1936
 				expt = 0.5
 				state = 0
 				connected = True
@@ -6650,13 +6650,13 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: fuelTank3-2_93; pos: -2.839983,-2.084988,0.1482611; dir: -0.8052236,-0.5913304,0.04408167
+				cData = tgt: fuelTank3-2_93; pos: -2.839451,-2.086282,0.1475192; dir: -0.8052236,-0.5913304,0.04408167
 				sym = 64
 				sym = 73
 				sym = 91
 				srfN = srfAttach, 74
 				mass = 0.05
-				temp = -104.5771
+				temp = -179.1601
 				expt = 0
 				state = 0
 				connected = True
@@ -6688,7 +6688,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.6
-				temp = -105.4892
+				temp = -180.3895
 				expt = 0.5
 				state = 0
 				connected = True
@@ -6720,7 +6720,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.02
-				temp = -104.9733
+				temp = -179.6296
 				expt = 0.5
 				state = 0
 				connected = True
@@ -6862,7 +6862,7 @@ GAME
 				attN = None, -1
 				attN = top, 86
 				mass = 0.6
-				temp = -104.9941
+				temp = -179.6722
 				expt = 0.5
 				state = 0
 				connected = True
@@ -6894,7 +6894,7 @@ GAME
 				attN = bottom, 87
 				attN = top, 85
 				mass = 0.6
-				temp = -104.9053
+				temp = -179.6261
 				expt = 0.5
 				state = 0
 				connected = True
@@ -6926,7 +6926,7 @@ GAME
 				attN = None, -1
 				attN = bottom, 86
 				mass = 0.02
-				temp = -104.647
+				temp = -179.3076
 				expt = 0.5
 				state = 0
 				connected = True
@@ -7068,7 +7068,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.175
-				temp = -105.0579
+				temp = -179.8297
 				expt = 0.5
 				state = 0
 				connected = True
@@ -7100,7 +7100,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.02
-				temp = -104.7238
+				temp = -179.3785
 				expt = 0.5
 				state = 0
 				connected = True
@@ -7240,7 +7240,7 @@ GAME
 				sym = 81
 				srfN = srfAttach, 88
 				mass = 0.05
-				temp = -104.56
+				temp = -179.185
 				expt = 0.5
 				state = 0
 				connected = True
@@ -7303,13 +7303,13 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: fuelTank3-2_93; pos: -2.836389,-2.08535,0.161878; dir: -0.8052236,-0.5913304,0.04408167
+				cData = tgt: fuelTank3-2_93; pos: -2.835984,-2.090556,0.1608451; dir: -0.8052236,-0.5913304,0.04408167
 				sym = 64
 				sym = 73
 				sym = 82
 				srfN = srfAttach, 83
 				mass = 0.05
-				temp = -104.5469
+				temp = -179.1298
 				expt = 0
 				state = 0
 				connected = True
@@ -7338,7 +7338,7 @@ GAME
 				attN = top, 0
 				attN = bottom, 93
 				mass = 0.001
-				temp = -105.0511
+				temp = -179.6898
 				expt = 0.5
 				state = 0
 				connected = True
@@ -7367,7 +7367,7 @@ GAME
 				attN = top, 92
 				attN = bottom, 94
 				mass = 4
-				temp = -105.5333
+				temp = -180.5176
 				expt = 0.5
 				state = 0
 				connected = True
@@ -7412,7 +7412,7 @@ GAME
 				attN = top, 93
 				attN = bottom, 95
 				mass = 4
-				temp = -105.4957
+				temp = -178.9324
 				expt = 0.5
 				state = 0
 				connected = True
@@ -7457,7 +7457,7 @@ GAME
 				attN = top, 94
 				attN = None, -1
 				mass = 6
-				temp = -104.7331
+				temp = -146.1191
 				expt = 0.5
 				state = 1
 				connected = True
@@ -7607,7 +7607,7 @@ GAME
 				RESOURCE
 				{
 					name = ElectricCharge
-					amount = 0.0115781722590327
+					amount = 0.00542377047240734
 					maxAmount = 0.0399999991059303
 					flowState = True
 					flowMode = Both
@@ -7631,7 +7631,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.001
-				temp = -105.0895
+				temp = -179.234
 				expt = 0.5
 				state = 0
 				connected = True
@@ -7656,11 +7656,11 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: strutCube_108; pos: 0.009677269,0.4561958,0.002709134; dir: 0.01726778,0.9998406,0.004550545
+				cData = tgt: strutCube_108; pos: 0.009920701,0.4560862,0.002724269; dir: 0.01726778,0.9998406,0.004550545
 				sym = 99
 				srfN = srfAttach, 96
 				mass = 0.05
-				temp = -104.7319
+				temp = -178.9652
 				expt = 0
 				state = 0
 				connected = True
@@ -7690,7 +7690,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.001
-				temp = -105.0593
+				temp = -179.1997
 				expt = 0.5
 				state = 0
 				connected = True
@@ -7715,11 +7715,11 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: strutCube_109; pos: 0.006075234,0.4562529,0.001700845; dir: 0.01726778,0.9998406,0.004550545
+				cData = tgt: strutCube_109; pos: 0.005831883,0.4563516,0.001518484; dir: 0.01726778,0.9998406,0.004550545
 				sym = 97
 				srfN = srfAttach, 98
 				mass = 0.05
-				temp = -104.7152
+				temp = -178.95
 				expt = 0
 				state = 0
 				connected = True
@@ -7749,7 +7749,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.001
-				temp = -105.0286
+				temp = -179.1311
 				expt = 0.5
 				state = 0
 				connected = True
@@ -7774,11 +7774,11 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: strutCube_110; pos: 0.0009839238,0.5192271,-0.000493349; dir: 0.001042271,0.9999885,-0.004680121
+				cData = tgt: strutCube_110; pos: 0.001028776,0.5192047,-0.0003135553; dir: 0.001042271,0.9999885,-0.004680121
 				sym = 103
 				srfN = srfAttach, 100
 				mass = 0.05
-				temp = -104.6981
+				temp = -178.9096
 				expt = 0
 				state = 0
 				connected = True
@@ -7808,7 +7808,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.001
-				temp = -104.9943
+				temp = -179.0918
 				expt = 0.5
 				state = 0
 				connected = True
@@ -7833,11 +7833,11 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: strutCube_111; pos: 8.953632E-05,0.5184641,-0.004115004; dir: 0.001042271,0.9999885,-0.004680121
+				cData = tgt: strutCube_111; pos: 5.02271E-05,0.5184684,-0.004464623; dir: 0.001042271,0.9999885,-0.004680121
 				sym = 101
 				srfN = srfAttach, 102
 				mass = 0.05
-				temp = -104.6791
+				temp = -178.892
 				expt = 0
 				state = 0
 				connected = True
@@ -7867,7 +7867,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.001
-				temp = -104.9602
+				temp = -179.0551
 				expt = 0.5
 				state = 0
 				connected = True
@@ -7892,11 +7892,11 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: strutCube_112; pos: -0.46982,-0.0109183,-0.02824378; dir: -0.9980057,-0.02604545,-0.05749954
+				cData = tgt: strutCube_112; pos: -0.4697284,-0.01070968,-0.02850204; dir: -0.9980057,-0.02604545,-0.05749954
 				sym = 107
 				srfN = srfAttach, 104
 				mass = 0.05
-				temp = -104.6604
+				temp = -178.8763
 				expt = 0
 				state = 0
 				connected = True
@@ -7926,7 +7926,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.001
-				temp = -104.9261
+				temp = -179.0159
 				expt = 0.5
 				state = 0
 				connected = True
@@ -7951,11 +7951,11 @@ GAME
 				sqor = -1
 				sidx = -1
 				attm = 1
-				cData = tgt: strutCube_113; pos: -0.4703031,-0.01361046,-0.02566773; dir: -0.9980057,-0.02604545,-0.05749954
+				cData = tgt: strutCube_113; pos: -0.4703841,-0.01381812,-0.02558086; dir: -0.9980057,-0.02604545,-0.05749954
 				sym = 105
 				srfN = srfAttach, 106
 				mass = 0.05
-				temp = -104.6416
+				temp = -178.8588
 				expt = 0
 				state = 0
 				connected = True
@@ -7985,7 +7985,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.001
-				temp = -104.9532
+				temp = -179.633
 				expt = 0.5
 				state = 0
 				connected = True
@@ -8015,7 +8015,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.001
-				temp = -104.8984
+				temp = -179.5718
 				expt = 0.5
 				state = 0
 				connected = True
@@ -8045,7 +8045,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.001
-				temp = -104.8409
+				temp = -179.5096
 				expt = 0.5
 				state = 0
 				connected = True
@@ -8075,7 +8075,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.001
-				temp = -104.79
+				temp = -179.453
 				expt = 0.5
 				state = 0
 				connected = True
@@ -8105,7 +8105,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.001
-				temp = -104.7391
+				temp = -179.3957
 				expt = 0.5
 				state = 0
 				connected = True
@@ -8135,7 +8135,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.001
-				temp = -104.6865
+				temp = -179.3373
 				expt = 0.5
 				state = 0
 				connected = True
@@ -8167,7 +8167,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.175
-				temp = -105.1513
+				temp = -179.9615
 				expt = 0.5
 				state = 0
 				connected = True
@@ -8199,7 +8199,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.02
-				temp = -104.7814
+				temp = -179.4369
 				expt = 0.5
 				state = 0
 				connected = True
@@ -8339,7 +8339,7 @@ GAME
 				sym = 125
 				srfN = srfAttach, 114
 				mass = 0.005
-				temp = -104.6175
+				temp = -179.2429
 				expt = 0.5
 				state = 0
 				connected = True
@@ -8420,7 +8420,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.175
-				temp = -105.142
+				temp = -179.9509
 				expt = 0.5
 				state = 0
 				connected = True
@@ -8452,7 +8452,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.02
-				temp = -104.7764
+				temp = -179.4321
 				expt = 0.5
 				state = 0
 				connected = True
@@ -8592,7 +8592,7 @@ GAME
 				sym = 125
 				srfN = srfAttach, 117
 				mass = 0.005
-				temp = -104.6124
+				temp = -179.2379
 				expt = 0.5
 				state = 0
 				connected = True
@@ -8673,7 +8673,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.175
-				temp = -105.1328
+				temp = -179.9398
 				expt = 0.5
 				state = 0
 				connected = True
@@ -8705,7 +8705,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.02
-				temp = -104.7714
+				temp = -179.427
 				expt = 0.5
 				state = 0
 				connected = True
@@ -8845,7 +8845,7 @@ GAME
 				sym = 125
 				srfN = srfAttach, 120
 				mass = 0.005
-				temp = -104.6073
+				temp = -179.2329
 				expt = 0.5
 				state = 0
 				connected = True
@@ -8926,7 +8926,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.175
-				temp = -105.1237
+				temp = -179.929
 				expt = 0.5
 				state = 0
 				connected = True
@@ -8958,7 +8958,7 @@ GAME
 				attN = None, -1
 				attN = None, -1
 				mass = 0.02
-				temp = -104.7663
+				temp = -179.4222
 				expt = 0.5
 				state = 0
 				connected = True
@@ -9098,7 +9098,7 @@ GAME
 				sym = 122
 				srfN = srfAttach, 123
 				mass = 0.005
-				temp = -104.6024
+				temp = -179.2281
 				expt = 0.5
 				state = 0
 				connected = True
@@ -9208,13 +9208,13 @@ GAME
 			cMod = -1
 			ORBIT
 			{
-				SMA = 0
-				ECC = 1
-				INC = NaN
-				LPE = 105.424598710328
-				LAN = 0
-				MNA = -8.40714670366795
-				EPH = 2799.37778259199
+				SMA = 300816.514598445
+				ECC = 0.994822771649704
+				INC = 0.102216821902418
+				LPE = 90.0000000000001
+				LAN = 106.623956559993
+				MNA = 3.14159265358979
+				EPH = 71.9600000000028
 				REF = 1
 				OBJ = 1
 			}
@@ -9370,13 +9370,13 @@ GAME
 			cMod = -1
 			ORBIT
 			{
-				SMA = NaN
-				ECC = 1
-				INC = NaN
-				LPE = 105.424592519911
-				LAN = 0
-				MNA = -8.40714670366795
-				EPH = 2799.37778259199
+				SMA = 300816.515011783
+				ECC = 0.994822771913073
+				INC = 0.103102423874235
+				LPE = 90
+				LAN = 106.623950383856
+				MNA = 3.14159265358979
+				EPH = 71.9600000000028
 				REF = 1
 				OBJ = 1
 			}
@@ -9532,13 +9532,13 @@ GAME
 			cMod = -1
 			ORBIT
 			{
-				SMA = NaN
-				ECC = 1
-				INC = NaN
-				LPE = 105.424212380212
-				LAN = 0
-				MNA = -8.40714670366795
-				EPH = 2799.37778259199
+				SMA = 300816.45875515
+				ECC = 0.994822774580586
+				INC = 0.102434993102623
+				LPE = 90.0000000000001
+				LAN = 106.623570596453
+				MNA = 3.14159265358979
+				EPH = 71.9600000000028
 				REF = 1
 				OBJ = 1
 			}
@@ -9694,13 +9694,13 @@ GAME
 			cMod = -1
 			ORBIT
 			{
-				SMA = 300037.762493582
-				ECC = 1
-				INC = NaN
-				LPE = 105.424976570568
-				LAN = 0
+				SMA = 300816.460739934
+				ECC = 0.994822774623249
+				INC = 0.102884256033058
+				LPE = 90.0000000000001
+				LAN = 106.624336359788
 				MNA = 3.14159265358979
-				EPH = 2799.37778259199
+				EPH = 71.9600000000028
 				REF = 1
 				OBJ = 1
 			}
@@ -9856,13 +9856,13 @@ GAME
 			cMod = -1
 			ORBIT
 			{
-				SMA = NaN
-				ECC = 1
-				INC = NaN
-				LPE = 105.424208986637
-				LAN = 0
-				MNA = -8.40714670366795
-				EPH = 2799.37778259199
+				SMA = 300816.522294527
+				ECC = 0.994822771467799
+				INC = 0.102878562607921
+				LPE = 90
+				LAN = 106.623568072726
+				MNA = 3.14159265358979
+				EPH = 71.9600000000028
 				REF = 1
 				OBJ = 1
 			}
@@ -10018,13 +10018,13 @@ GAME
 			cMod = -1
 			ORBIT
 			{
-				SMA = 300037.826892167
-				ECC = 1
-				INC = NaN
-				LPE = 105.424979368
-				LAN = 0
+				SMA = 300816.523863062
+				ECC = 0.994822771246746
+				INC = 0.102440681614903
+				LPE = 90
+				LAN = 106.624338871556
 				MNA = 3.14159265358979
-				EPH = 2799.37778259199
+				EPH = 71.9600000000028
 				REF = 1
 				OBJ = 1
 			}
