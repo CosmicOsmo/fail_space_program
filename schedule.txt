@@ -1,6 +1,30 @@
+Current global time (from resume game menu)
+===========================================
+Year 1, Day 3
+
+
 Schedule of upcoming trajectory adjustments
 ===========================================
 
 MET
 
 + 00:00:00 
+
+
+
+
+
+Upcoming IP transfer windows (global times)
+===========================================
+
+Day 5: Moho
+Day 39: Moho
+Day 47: Jool
+Day 58: Duna
+Day 64: Eeloo
+Day 72: Moho
+Day 101: Dres
+Day 105: Moho
+Day 138: Eve
+Day 139: Moho
+Day 165: Jool
